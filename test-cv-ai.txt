@@ -1,0 +1,43 @@
+John Doe - Senior Backend Developer
+
+EXPERIENCE:
+- 5 years of professional Node.js and JavaScript development
+- Built scalable REST APIs serving 100,000+ daily active users
+- Led backend team of 4 developers on microservices architecture
+- Optimized API response times by 60% through database indexing and caching
+- Implemented CI/CD pipelines reducing deployment time from 2 hours to 15 minutes
+
+TECHNICAL SKILLS:
+- Backend: Node.js, Express.js, Python, Java
+- Databases: PostgreSQL, MongoDB, Redis, MySQL  
+- Cloud: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes
+- AI/ML: OpenAI API integration, LangChain, vector databases
+- APIs: REST, GraphQL, microservices architecture
+- Testing: Jest, Mocha, integration testing, TDD
+
+NOTABLE PROJECTS:
+1. E-commerce Backend Platform
+   - Built complete backend serving 50k+ customers
+   - Tech: Node.js, PostgreSQL, Redis, AWS
+   - Results: 99.9% uptime, <200ms response times
+
+2. AI Customer Support Chatbot
+   - Integrated OpenAI GPT-4 for customer queries
+   - Tech: Node.js, OpenAI API, vector search
+   - Results: 70% reduction in support tickets
+
+ACHIEVEMENTS:
+- Improved system performance by 60% through optimization
+- Led successful migration to microservices architecture
+- Mentored 3 junior developers, 2 promoted to senior roles
+- Open source contributor with 2000+ GitHub stars
+
+EDUCATION:
+Bachelor of Computer Science, Major in Software Engineering
+Relevant coursework: Data Structures, Algorithms, Database Systems
+
+COMMUNICATION & LEADERSHIP:
+- Technical blog author with 10k+ monthly readers
+- Conference speaker at 3 tech meetups
+- Cross-functional collaboration with product and design teams
+- Documentation advocate, maintained team technical wiki
